@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "2a42787f0a57778d2dc56a5813db429e"
+build_time: [1624744033, 96683000]
+inputs:
+  "/Users/Ronish/Documents/iOS Udemy/Clima-iOS13/Clima/Controller/WeatherViewController.swift": [1624506722, 265200349]
+  "/Users/Ronish/Documents/iOS Udemy/Clima-iOS13/Clima/Model/WeatherData.swift": [1624473281, 999274666]
+  "/Users/Ronish/Documents/iOS Udemy/Clima-iOS13/Clima/AppDelegate.swift": [1624373428, 104616557]
+  "/Users/Ronish/Documents/iOS Udemy/Clima-iOS13/Clima/Model/WeatherManager.swift": [1624506463, 390051532]
+  "/Users/Ronish/Documents/iOS Udemy/Clima-iOS13/Clima/Model/WeatherModel.swift": [1624472372, 248913954]
+  "/Users/Ronish/Documents/iOS Udemy/Clima-iOS13/Clima/SceneDelegate.swift": [1624373428, 118807641]
